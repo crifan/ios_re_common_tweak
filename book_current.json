@@ -1,0 +1,19 @@
+{
+  "title": "iOS越狱开发：常用越狱插件",
+  "description": "介绍iOS逆向期间，iPhone越狱相关的，常用的一些插件。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ios_re_common_tweak"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ios_re_common_tweak/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ios_re_common_tweak/pdf/ios_re_common_tweak.pdf"
+    }
+  }
+}

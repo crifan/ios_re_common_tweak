@@ -2,6 +2,7 @@
 
 * [前言](README.md)
 * [越狱插件概述](jailbreak_tweak_overview/README.md)
+* [初始化逆向开发环境](init_jb_dev_env/README.md)
 * [SSH](ssh/README.md)
   * [OpenSSH](ssh/openssh.md)
 * [文件管理器](file_manage/README.md)

@@ -1,6 +1,6 @@
 {
   "title": "iOS越狱开发：常用越狱插件",
-  "description": "介绍iOS逆向期间，iPhone越狱相关的，常用的一些插件。",
+  "description": "介绍iOS逆向期间，iPhone越狱相关的，常用的一些插件。以及iOS越狱后初始化逆向开发环境概述；",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [

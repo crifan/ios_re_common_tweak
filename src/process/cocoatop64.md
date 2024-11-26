@@ -4,11 +4,15 @@
   * 用途
     * 比如查看进程参数`Raw Process Flags` -》 可以得知进程是否可调试
   * 安装
-    * 下载deb
+    * Mac中：下载deb
       * http://apt.thebigboss.org/repofiles/cydia/debs2.0/cocoatop64_2.2.3.deb
         * 注：另外一个，或许可用的，deb地址
           * https://github.com/D0m0/CocoaTop/releases/download/2.2.3/ru.domo.cocoatop64_2.2.3_iphoneos-arm.deb
-    * 安装deb
+    * Mac中：下载到iPhone中
+      ```bash
+      scp cocoatop64_2.2.3.deb root@192.168.2.37:/var/root/
+      ```
+    * iPhone中：安装deb
       * 2种方式
         * 用Filza安装
           * 点击deb-》安装-》动作-》`注销`=`Respring`=`重启桌面`

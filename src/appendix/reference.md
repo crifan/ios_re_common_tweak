@@ -10,6 +10,7 @@
 * 【已解决】给已越狱iPhone6修改ssh密码并开启ssh免密登录
 * 【记录】iPhone中用Cydia安装SSH插件：OpenSSH
 * 【记录】给越狱iPhone7安装SSH并配置免密登录
+* 【已解决】Mac中theos的make install报错：ssh connect to host port 22 Connection refused
 * 
 * [Discussion What is AFC2? : r/jailbreak](https://www.reddit.com/r/jailbreak/comments/b1lphh/discussion_what_is_afc2/)
 * [iOS Repo Updates • Cydia iOS Repository Updates for Jailbroken iPhone iPad or iPod (ios-repo-updates.com)](https://www.ios-repo-updates.com/)

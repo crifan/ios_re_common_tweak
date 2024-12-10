@@ -11,8 +11,14 @@
 * 【记录】iPhone中用Cydia安装SSH插件：OpenSSH
 * 【记录】给越狱iPhone7安装SSH并配置免密登录
 * 【已解决】Mac中theos的make install报错：ssh connect to host port 22 Connection refused
+* 【已解决】已越狱iPhone中用插件AppSync
+* 【记录】越狱iPhone7P通过Cydia安装插件：AppSync Unified
+* 【已解决】iOS14.3的iPhone8越狱后：安装插件AppSync Unified
+* 【记录】iOS14.3的iPhone8：安装AppSync Unified
 * 
 * [Discussion What is AFC2? : r/jailbreak](https://www.reddit.com/r/jailbreak/comments/b1lphh/discussion_what_is_afc2/)
 * [iOS Repo Updates • Cydia iOS Repository Updates for Jailbroken iPhone iPad or iPod (ios-repo-updates.com)](https://www.ios-repo-updates.com/)
 * [[Free Release] Filza File Manager and CocoaTop for iOS 15 to install via TrollStore : jailbreak (reddit.com)](https://www.reddit.com/r/jailbreak/comments/x6lok9/free_release_filza_file_manager_and_cocoatop_for/)
+* [[Help] Alternate Repo For AppSync Unified? : r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/comments/1drdgwm/help_alternate_repo_for_appsync_unified/)
+* [Is appsync repo down? : r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/comments/1dqpfal/is_appsync_repo_down/)
 * 

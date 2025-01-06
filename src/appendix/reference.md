@@ -21,4 +21,5 @@
 * [[Free Release] Filza File Manager and CocoaTop for iOS 15 to install via TrollStore : jailbreak (reddit.com)](https://www.reddit.com/r/jailbreak/comments/x6lok9/free_release_filza_file_manager_and_cocoatop_for/)
 * [[Help] Alternate Repo For AppSync Unified? : r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/comments/1drdgwm/help_alternate_repo_for_appsync_unified/)
 * [Is appsync repo down? : r/LegacyJailbreak](https://www.reddit.com/r/LegacyJailbreak/comments/1dqpfal/is_appsync_repo_down/)
+* [Filza File Manager 4.0.0 updated – TIGI Software](https://www.tigisoftware.com/default/?p=439)
 * 

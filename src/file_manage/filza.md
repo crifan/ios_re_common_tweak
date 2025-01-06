@@ -10,8 +10,15 @@ TODO：
 
 ---
 
-* 安装64位的Filza
+* rootful
+  * 安装64位的Filza
+    * 概述
+        * Cydia源：`http://tigisoftware.com/cydia/` -> `TIGI Software`->`全部工具`->`Filza File Manager 64-bit`
+    * 详见
+      * 【记录】越狱iPhone6P中用Cydia安装Filza File Manager 64-bit
+* rootless
   * 概述
-    * Cydia源：`http://tigisoftware.com/cydia/` -> `TIGI Software`->`全部工具`->`Filza File Manager 64-bit`
-  * 详解
-    * 【记录】越狱iPhone6P中用Cydia安装Filza File Manager 64-bit
+    * `TrollStore`->右上角加号`➕`-》`Install from URL`-》输入Filza的ipa地址
+      * https://tigisoftware.com/download/Filza_NoURLScheme_4.0.2.ipa
+  * 详见
+    * 【已解决】Dopamine的rootless越狱后的iOS15.5的iPad：安装Filza文件管理器

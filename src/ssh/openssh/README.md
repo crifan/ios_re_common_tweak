@@ -1,29 +1,34 @@
 # OpenSSH
 
-* OpenSSH
+* `OpenSSH` = `ssh`
+  * 源地址
+    * https://apt.bingner.com/
   * 作用：可以通过`ssh`的命令行方式去访问和操作越狱iPhone
-  * 安装
-    * `Cydia`/`Sileo`中搜：`openssh`，并安装，即可
-      * Cydia
-        * ![cydia_search_openssh](../../assets/img/cydia_search_openssh.png)
-      * Sileo
-        * ![sileo_search_openssh](../../assets/img/sileo_search_openssh.png)
-  * 如何使用
-    ```bash
-    ssh root@192.168.2.28
-    ```
-    * 说明
-      * iPhone要和电脑端（Mac）同处于一个WiFi局域网内
-      * `192.168.2.28`是的iPhone的IP
-        * ![iphone8_wifi_ip_28](../../assets/img/iphone8_wifi_ip_28.png)
-      * 【首次=只需要初始化一次】
-        * 当出现提示`Are you sure you want to continue connecting (yes/no/[fingerprint])? `
-          * 输入：`yes`
-      * OpenSSH的ssh的（默认）密码是：`alpine`
-  * ssh免密登录
-    * 概述
-      * 初始化好环境后，每次只需要
+  * 概述
+    * 安装
+      * `Cydia`/`Sileo`中搜：`openssh`，可以搜到多个，点击`OpenSSH`，并安装，即可
+    * 登录
+      * 说明
+        * 对于ssh的用户名：`<ssh_username>`
+          * rootful：`root`
+            * 举例
+              * `ssh root@192.168.2.28`
+          * rootless：`mobile`
+            * 举例
+              * `ssh mobile@192.168.2.28`
+        * 对于ssh的密码：都是`alpine`
+      * 首次
+        * 首次登录
+          ```bash
+          ssh <ssh_username>@192.168.2.28
+          ```
+        * 输入`yes`，保存设置
+        * 输入密码: `alpine`，即可登录
+      * 去设置免密登录（只需要初始化一次）
         ```bash
-        ssh-copy-id root@192.168.2.28
+        ssh-copy-id <ssh_username>@192.168.2.28
         ```
-
+      * 之后每次直接登录
+        ```bash
+        ssh <ssh_username>@192.168.2.28
+        ```

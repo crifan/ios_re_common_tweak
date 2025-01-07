@@ -1,5 +1,19 @@
 # ssh免密登录
 
+* ssh免密登录
+  * 概述
+    * 初始化好环境后，每次只需要
+      * rootful
+        ```bash
+        ssh-copy-id root@192.168.2.28
+        ```
+      * rootless
+        ```bash
+        ssh-copy-id mobile@192.168.2.28
+        ```
+
+---
+
 此处详细介绍ssh免密登录的步骤：
 
 注意：这些步骤，都是：首次=只需要初始化一次 == 后续无需重复操作
@@ -63,4 +77,4 @@ ssh root@192.168.2.28
 
 ==每次ssh，都不用再输入密码了
 
-![iphone_ssh_no_pwd_login](../../assets/img/iphone_ssh_no_pwd_login.png)
+![iphone_ssh_no_pwd_login](../../../assets/img/iphone_ssh_no_pwd_login.png)

@@ -69,6 +69,12 @@ http://tigisoftware.com/cydia/
 * `Filza File Manager 64-bit` 版本：`v3.9.0-2`
   * ![cydia_installed_filza_detail](../../../../assets/img/cydia_installed_filza_detail.png)
 
+后记：
+
+另外一个版本`4.0.1-3`的效果：
+
+![tweak_filza_file_manager](../../../../assets/img/tweak_filza_file_manager.png)
+
 安装后，桌面中出现了Filza的图标：
 
 ![iphone_installed_filza_logo](../../../../assets/img/iphone_installed_filza_logo.jpg)

@@ -13,6 +13,12 @@
 * 重启后，Sileo中能看到：已安装的插件中，有：`AppSync Unified`
   * ![sileo_installed_appsync_unified](../../../assets/img/sileo_installed_appsync_unified.png)
 * 进入可以看到详情页
-  * ![sileo_appsync_unified_detail](../../../assets/img/sileo_appsync_unified_detail.png)
+  * `v110.0`
+    * ![sileo_appsync_unified_detail](../../../assets/img/sileo_appsync_unified_detail.png)
 * 和`已安装的文件`的详情
   * ![sileo_appsync_unified_files](../../../assets/img/sileo_appsync_unified_files.png)
+
+* 注：
+  * 另外一个版本安装后的详情页
+    * `v112.0`
+      * ![tweak_appsync_unified](../../../assets/img/tweak_appsync_unified.png)

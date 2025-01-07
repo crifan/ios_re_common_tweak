@@ -19,7 +19,7 @@ TODO：
           * 此处版本：`Filza v3.8.1-29`
           * 会自动安装其依赖库：`unrar`、`unzip`、`zip`、`7-zip`
     * 安装64位的
-      * Cydia-》添加源：`http://tigisoftware.com/cydia/` （旧地址：`https://tigisoftware.com/repo/`） -> `TIGI Software`->`实用工具`->`Filza File Manager 64-bit`-》继续点击安装
+      * Cydia-》添加源：`https://tigisoftware.com/repo/` （旧地址：`http://tigisoftware.com/cydia/`） -> `TIGI Software`->`实用工具`->`Filza File Manager 64-bit`-》继续点击安装
   * rootless
     * `TrollStore`->右上角加号`➕`-》`Install from URL`-》输入Filza的ipa地址
       * https://tigisoftware.com/download/Filza_NoURLScheme_4.0.2.ipa

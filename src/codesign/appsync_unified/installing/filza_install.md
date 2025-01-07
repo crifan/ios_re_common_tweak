@@ -1,8 +1,8 @@
-# Filza安装
+# Filza安装AppSync Unified
 
 此处介绍，从Filza中的deb插件去安装`AppSync Unified`：
 
-* 点击`deb插件`
+* 点击`deb`插件文件：`nodelete-ai.akemi.appsyncunified.deb`
   * ![filza_appsync_unified](../../../assets/img/filza_appsync_unified.png)
 * 点击右上角的`安装`
   * ![filza_appsync_unified_install](../../../assets/img/filza_appsync_unified_install.png)

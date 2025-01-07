@@ -15,6 +15,9 @@
 * 【记录】越狱iPhone7P通过Cydia安装插件：AppSync Unified
 * 【已解决】iOS14.3的iPhone8越狱后：安装插件AppSync Unified
 * 【记录】iOS14.3的iPhone8：安装AppSync Unified
+* 【记录】已越狱iPhone中使用Filza File Manager
+* 【已解决】越狱iOS中用Cydia安装Filza File Manager
+* 【已解决】Dopamine的rootless越狱后的iOS15.5的iPad：安装Filza文件管理器
 * 
 * [Discussion What is AFC2? : r/jailbreak](https://www.reddit.com/r/jailbreak/comments/b1lphh/discussion_what_is_afc2/)
 * [iOS Repo Updates • Cydia iOS Repository Updates for Jailbroken iPhone iPad or iPod (ios-repo-updates.com)](https://www.ios-repo-updates.com/)
